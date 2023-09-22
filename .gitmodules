@@ -1,0 +1,3 @@
+[submodule "s2e-aobc"]
+	path = s2e-aobc
+	url = https://github.com/ut-issl/s2e-aobc.git
