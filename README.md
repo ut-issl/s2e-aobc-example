@@ -3,8 +3,8 @@
 ## Overview
 
 - `S2E-AOBC-EXAMPLE` is an example of a project-specific repository of `S2E-AOBC`.
-- Users can copy this directory to make their own simulation environment.
-  - **NOTE**: Please rewrite `example` to suit your project and remove unnecessary descriptions in this document after you copy the directory.
+- Users can refer this repository to make their own simulation environment.
+  - **NOTE**: Please rewrite words like `example` to suit your project and remove unnecessary descriptions in this document after you copy the repository.
 - For other detailed descriptions, please also see README of [s2e-aobc](https://github.com/ut-issl/s2e-aobc)
 
 ## How to construct the repository
@@ -23,8 +23,7 @@
 ## Clone Flight S/W repository and build
 
 - Make the `FlightSW` directory at the same directory with `s2e-aobc-example`
-- Clone the project-specific `C2A-AOBC` named like `C2A-AOBC-EXAMPLE` repository into `FlightSW`
-  - To make `C2A-AOBC-EXAMPLE`, please check the descriptions in the [c2a-aobc](https://github.com/ut-issl/c2a-aobc).
+- Clone the project-specific `C2A-AOBC` (e.g. [C2A-AOBC-EXAMPLE](https://github.com/ut-issl/c2a-aobc-example)) repository into `FlightSW`
 - Directory Construction
   ```
   - s2e-aobc-example
