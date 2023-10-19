@@ -62,8 +62,6 @@ if(USE_HILS AND WIN32)
   message(${WS2_32_LIB})
 endif()
 
-set(S2E_DIR ${CMAKE_CURRENT_COURCE_DIR})
-
 ## include directories of S2E-CORE
 include_directories(${CSPICE_DIR}/include)
 include_directories(${NRLMSISE00_DIR}/src)
